@@ -29,6 +29,6 @@
 </div>
   
   ##
-  <div>
+  <div style="display: inline_block">
     ![Snake animation](https://github.com/NetoSK9/NetoSK9/blob/output/github-contribution-grid-snake.svg)
   </div>
