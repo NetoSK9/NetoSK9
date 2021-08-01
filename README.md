@@ -17,10 +17,11 @@
   
   ##
   
-- Entre em contato comigo  
-<div style="display: inline_block">
-  <a href = "mailto:netobatista090@gmail.com"><img src="https://cdn3.iconfinder.com/data/icons/brands-applications/512/gmail_A-128.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/neto-batista-163263211/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/brands-applications/512/LinkedIN_B-128.png" target="_blank"></a>
+- Entre em contato comigo: 
+<div style="display: inline-block; padding: 16px;">
+  <a href = "mailto:netobatista090@gmail.com"><img src="https://cdn3.iconfinder.com/data/icons/brands-applications/512/gmail_A-64.png" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/neto-batista-163263211/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/brands-applications/512/LinkedIN_B-64.png" target="_blank"></a>
 </div>
   
   ##
