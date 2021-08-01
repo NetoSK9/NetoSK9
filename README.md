@@ -1,9 +1,9 @@
 ## Oi! meu nome é J. B. Neto!
 <div>
   <a href="https://github.com/NetoSK9">
-  <img height="180em" 
+  <img height="170em" 
        src="https://github-readme-stats.vercel.app/api?username=NetoSK9&title_color=00ffff150&show_icons=true&icon_color=2fff170&theme=gotham&include_all_commits=true&count_private=true"/></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoSK9&layout=compact&langs_count=8&theme=gotham&title_color=00ffff150"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoSK9&layout=compact&langs_count=8&theme=gotham&title_color=00ffff150"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
